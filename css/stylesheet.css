@@ -15,4 +15,16 @@ img{
 
 div.container{
           margin: 10px;
-          background-color: 
+          background-color: #00a155;
+}
+
+table,tr,td{
+            background-color: #00b763;
+            border: 2px solid;
+            border-radius: 25px;
+            border: none;
+} 
+
+td#cot1{
+          text-align: center;
+} 
